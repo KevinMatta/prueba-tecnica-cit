@@ -1,4 +1,4 @@
-App de eventos
+# App de eventos
 
 Este repositorio contiene una aplicación de gestión de eventos con una base de datos no relacional en MongoDB, con backend en Ruby y un frontend en React. La aplicación permite crear, visualizar, actualizar y eliminar eventos, y se integra con una API externa para obtener si en esa fecha hay alguna festividad usando la api de calendarific.
 
