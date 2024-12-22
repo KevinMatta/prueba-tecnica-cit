@@ -52,10 +52,10 @@ npm run dev
 
 ### 4. Uso de la aplicación
 crear un evento
-![img1](./img/img3.png)
+![img1](./img/img1.png)
 
 visualizar todos los eventos, y modal para eliminar
 ![img2](./img/img2.png)
 
 ver detalles de un evento
-![img3](./img/img1.png)
+![img3](./img/img3.png)
